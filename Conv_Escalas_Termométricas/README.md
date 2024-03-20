@@ -57,8 +57,6 @@ Outro ponto a se destacar, é que o Build é extremamente leve e ocupa pouca car
     <a href="mailto:leandro@lrcorp.com.br">
     <img align="center" width="60px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/envelope.svg"> </a>
     <span>
-     <a href="mailto:leandro@lrcorp.com.br">
-    <img align="center" width="60px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/golang.svg"> </a>
 </h2>
 
 
