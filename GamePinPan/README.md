@@ -5,16 +5,41 @@
 Go Developers
 </h1>
 
-<p align="center"> Repositório sonbre Go Developers</p>
-## 🚀 Tecnologias utilizadas:
+Desafio é utilizar o operado % e o for.
 
--   Go
--   Logica de programação
-## ✨ Features
-Commit|Descrição|Data
-|---|---|---|
-|Inicial|Conv_Escalas_Termicas   | 19/03/2024|
-|Build|GamePinPan|21/03/2024
+O Operador % traz o resto de uma divisão. Então se o resto for zero, significa que o numero é multiplo de outro numero escolhi.
+
+For é um laço para realizar a tarefa sob determinada condição.
+
+Tanto o Desafio numerico, para retornar multiplos de 3 quando o Game PinPAn, segue a mesma lógica.
+
+No Game PinPan, pede se o seguinte:
+    
+    * Quando o numero for multiplo de 3, iprimie Pin;
+    * Quando numero for multiplo de 5, imprimi Pan;
+    * Quando o numero for multiplo de 3 w 5, exemplo 15, imprime PinPan.
+
+Em ambos os codigos, a faixa amostral será de 1 até 100.
+
+
+## Como chegar lá?
+
+Dentro da main crie um for com a variavel iniciando em 1 e em quanto ela for menor igual a 100, faça os teste logicos, com if, else if e else e imprima o que se pede!
+
+## Insights 
+
+Fixação de como usar um for e uma condição com operador especifico.
+
+
+## Referência
+
+ - [Documentação Oficial](https://go.dev/doc/)
+
+ - [PlayGorund Go](https://go.dev/play/)
+ 
+## 😊Autores
+
+
 
 <h2>
     <a href='https://www.github.com/lerocha1'>
@@ -34,4 +59,3 @@ Pai, ciclista e apaixonado por Tecnologia, atuo como Gerente multidisciplinar em
 Programando marjoritariamente em Python, também especialista em banco de Dados, Analise de dados/Big Data e programador FullStack.
 
 Recentemente, me deparei programando em Go, linguagem que mais cresce no mundo.
-
