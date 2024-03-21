@@ -5,11 +5,13 @@
 Go Developers
 </h1>
 
-<p align="center"> Repositório sonbre Go Developers</p>
+<h2><p align="center"> Repositório sobre Desenvolvimento Go</p></h2>
 ## 🚀 Tecnologias utilizadas:
 
 -   Go
 -   Logica de programação
+-   Algoritmos e estruturas
+
 ## ✨ Features
 Commit|Descrição|Data
 |---|---|---|
