@@ -5,19 +5,45 @@
 Go Developers
 </h1>
 
-<h2><p align="center"> Repositório sobre Desenvolvimento Go</p></h2>
-## 🚀 Tecnologias utilizadas:
+Desafio é utilizar conceitos de funções, pacotes e Concorrencias em GO
 
--   Go
--   Logica de programação
--   Algoritmos e estruturas
+Basicamente, criei 3 canais:
+    * pingar;
+    * pong;
+    * imprimir;
 
-## ✨ Features
-Commit|Descrição|Data
-|---|---|---|
-|Inicial|Conv_Escalas_Termicas   | 19/03/2024|
-|Build|GamePinPan|21/03/2024
-|Build|PingPong_Print|21/03/2024
+Utilizando pacotes "time" para aguardar 1 segundo antes que cada impressoão e acionando as funções com o Goroutines, cada canal intervala com o outro na hora de imprimir.
+
+
+## Como chegar lá?
+
+Crie os canais citados a cima, e na função main, chame eles com o goroutines.
+
+Não esquecer de declar a váriavel dentro da "main" para ser possivel a chamada das funções.
+
+
+
+## Insights 
+
+Em condições onde a demanda de requisições é muito grande, o Goroutines cai com uma luva por um preço muito baixo. Cada Thread iniciada custa apenas 2kb, o que é muito pouco consumo de memoria. Isso possibilita grandes "programa" a receber grandes quantidades de solicitações ao mesmo tempo, semprejudica a performance do sistema como um todo.
+
+## Exemplos
+
+    - Mercado Livre;
+    - Itau;
+    - Twitch;
+    - Uber;
+E a lista não para!
+
+## Referência
+
+ - [Documentação Oficial](https://go.dev/doc/)
+
+ - [PlayGorund Go](https://go.dev/play/)
+ 
+## 😊Autores
+
+
 
 <h2>
     <a href='https://www.github.com/lerocha1'>
@@ -37,4 +63,3 @@ Pai, ciclista e apaixonado por Tecnologia, atuo como Gerente multidisciplinar em
 Programando marjoritariamente em Python, também especialista em banco de Dados, Analise de dados/Big Data e programador FullStack.
 
 Recentemente, me deparei programando em Go, linguagem que mais cresce no mundo.
-
