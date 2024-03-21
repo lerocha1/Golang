@@ -1,3 +1,6 @@
+// Codigo realizado para Desafio DIO - Go Developers
+// Author - lerocha1 (Leandro Rocha)
+// Todos direitos Reservados 😊
 package main
 
 import (
