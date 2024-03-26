@@ -27,7 +27,7 @@ Para facilitar, adicionamos um HTML onde realizamos o cadastro e/ou remoção do
 
 Caso seja gerado pela primeira vez, um arquivo .JSON é craido, para armazenar os cadastros.
 
-
+Para executar este código, você precisa ter Go instalado em sua máquina. Depois de salvar esses arquivos em seus respectivos nomes (por exemplo, api.go para o código da API em Go e interface.html para a interface HTML), você pode executar o servidor da API com o comando go run api.go e acessar a interface HTML em seu navegador através de http://localhost:8080/interface.html . Isso permitirá que você adicione clientes e veja os clientes cadastrados.
 
 ## Insights 
 
@@ -37,6 +37,7 @@ O Go é uma linguagem de programação  compilada, estaticamente tipada e orient
 A linguagem Go é leve, rápida e segura, com suporte a multiplataforma.
 
 O pacote `encoding/json` permite manipular dados em formato JSON. Ele oferece funções para serializar(converter para formato JSON) e desserializar(converter de JSON para Go).
+
 
 
 ## Exemplos
