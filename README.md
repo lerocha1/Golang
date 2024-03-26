@@ -18,6 +18,7 @@ Commit|Descrição|Data
 |Inicial|Conv_Escalas_Termicas   | 19/03/2024|
 |Build|GamePinPan|21/03/2024
 |Build|PingPong_Print|21/03/2024
+|Build|Cadastro via JSON e Interface| 26/03/2024
 
 <h2>
     <a href='https://www.github.com/lerocha1'>
